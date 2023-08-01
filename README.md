@@ -1,6 +1,6 @@
 ### Hey 👋, I'm huangzihao
 
-I am currently an undergraduate majoring in computer-related fields. I enjoy tinkering with interesting things and, at the same time, I have a passion for life and sports!
+I am currently an undergraduate majoring in computer-related fields💻. I enjoy tinkering with interesting things and, at the same time, I have a passion for life🏃‍♂️ and sports🏋️‍♂️!
 
 [![Github](https://img.shields.io/github/followers/Carefreehuang?label=Follow&style=social)](https://github.com/Carefreehuang)
 
