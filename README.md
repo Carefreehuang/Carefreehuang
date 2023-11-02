@@ -1,4 +1,4 @@
-### Hey 👋, I'm huangzihao
+### Hey 👋, I'm carefreehuang
 
 I am currently an undergraduate majoring in computer-related fields💻. I enjoy tinkering with interesting things and, at the same time, I have a passion for life🏃‍♂️ and sports🏋️‍♂️!
 
